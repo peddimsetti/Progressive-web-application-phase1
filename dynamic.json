@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"profile pic.jpg",
+		"name":"vamsi",
+		"rollno":"17A31B0553",
+		"place":"Ramachandrapuram",
+		"des":"Student"
+	},
+	"career":{
+		"info":"i wanna be at a position where my knowledge will place me "
+	},
+	"education":[
+		{
+			"sno":"1",
+			"degree":"b_tech",
+			"institute":"pragati",
+			"per":"83",
+			"yop":"2021"
+		},
+		{
+			"sno":"2",
+			"degree":"Intermediate",
+			"institute":"Narayana",
+			"per":"93",
+			"yop":"2017"
+		},
+		{
+			"sno":"3",
+			"degree":"SSC",
+			"institute":"Ravindra barathi",
+			"per":"9.2",
+			"yop":"2015"
+		}
+	],
+	"languages":[
+		{
+			"lang":"Telugu"
+		},
+		{
+			"lang":"English"
+		},
+		{
+			"lang":"Hindi"
+		}
+	]
+
+}
